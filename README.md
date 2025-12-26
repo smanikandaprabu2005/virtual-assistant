@@ -3,6 +3,10 @@
 Virtual Assistant Shifra is a browser-based voice assistant built using JavaScript, Web Speech API, and Speech Synthesis API.  
 It listens to voice commands, responds with speech, and performs basic tasks like opening websites, telling the time and date, and searching the internet.
 
+## Live Demo
+
+https://smanikandaprabu2005.github.io/virtual-assistant/
+
 ##  Features
 
 - Voice recognition using SpeechRecognition API
