@@ -16,8 +16,8 @@ It listens to voice commands, responds with speech, and performs basic tasks lik
 ##  Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript (ES6)
+- CSS
+- JavaScript
 - Web Speech API
   - Speech Recognition
   - Speech Synthesis
